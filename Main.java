@@ -10,8 +10,10 @@ public class Main{
 		System.out.println("");
 		int var1 = 21;
 		int var2 = 21;
-		
-		
+		if (var1>var2){
+		 System.out.println("el numero mayor es: "+var1);
+                }else{
+		}
 		
 			
 	}
