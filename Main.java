@@ -13,6 +13,11 @@ public class Main{
 		if (var1>var2){
 		 System.out.println("el numero mayor es: "+var1);
                 }else{
+			if(var2>var1){
+                  		System.out.println("el numero mayor es: "+var2);
+			}else{
+			        System.out.println("los numero son iguales"); 
+			}
 		}
 		
 			
